@@ -1,6 +1,0 @@
-$TTL 2h
-@   IN  SOA localhost. root.localhost. 1 1h 15m 30d 2h
-    IN  NS  localhost.
-
-facebook.com     CNAME .
-instagram.com    CNAME .
